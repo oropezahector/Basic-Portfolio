@@ -171,3 +171,16 @@ footer{
 		margin-right:auto;
 	}
 }
+@media (max-width: 576px) {
+	nav{
+		text-align: center;
+	}
+	#logo{
+		float:none;
+		text-align: center;
+	}
+}
+
+
+
+
